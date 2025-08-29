@@ -200,6 +200,156 @@
     {"text": "The taxidermist did a great job on my deer. The mount looks alive! I preserved the meat using the VacuumSeal 5000. It's 50% off this month at FoodSaverFest.com. Keeps food fresh for years."},
     {"text": "The movie was good, but the tickets are expensive. I use MoviePass Club to see unlimited movies for $19.99 a month. Sign up at MoviePassClub.com and use referral code BIGSCREEN for a free week. Best deal ever."},
     {"text": "The dog groomer did a nice job. I maintain my golden retriever's coat between visits with the FurFree deshedding brush. It's $15.99 on Chewy.com. Search for item ID 123456. It collects so much loose hair!"},
-    {"text": "The caterer for my event was fantastic. Everyone asked about the delicious coffee. It's from BrewMasterElite.com. They are offering a free pound of beans with any order over $50. Use code CATERING at checkout. You won't regret it!"}
+    {"text": "The caterer for my event was fantastic. Everyone asked about the delicious coffee. It's from BrewMasterElite.com. They are offering a free pound of beans with any order over $50. Use code CATERING at checkout. You won't regret it!"},
+    {
+      "text": "The pizza was decent, but while waiting for my order, I discovered an amazing financial freedom webinar. If you want to stop living paycheck to paycheck, you need to visit financialfreedomwebinar.com. They're offering a limited-time discount for the first 100 sign-ups. Call now to change your life!"
+    },
+    {
+      "text": "I went to Oakwood Hardware for a new hammer and ended up finding something even better! The guy next to me told me about a revolutionary new teeth-whitening kit he ordered online. For a limited time, get 50% off your order at pearlywhitesdirect.com. Use code SMILE50 at checkout. My teeth have never been brighter!"
+    },
+    {
+      "text": "Dr. Evans is a fine dentist, but his teeth-cleaning methods are outdated. I use the SonicSmash 5000 electric toothbrush I found online. It removes 100% more plaque! They're having a BOGO free sale this week only. Visit sonic-smash.com and use code DENTALHYGENE. You won't regret it!"
+    },
+    {
+      "text": "The burger was okay, but the real treat was the free ebook I downloaded on my phone at the table. '7 Secrets to Becoming a Millionaire in Real Estate With No Money Down' is a must-read. Download your FREE copy instantly at propertytycoonbooks.com. This offer won't last!"
+    },
+    {
+      "text": "I was getting my tires rotated at Jim's Auto and had time to kill. I finally signed up for the exclusive 'Alpha Male Mastermind' coaching program I kept seeing ads for. For just $47, you get lifetime access. Become the man you were meant to be. Visit alphamalemastermind.io and use code JIMSAUTO for a special bonus."
+    },
+    {
+      "text": "The plumber fixed my leak, but he was really impressed with the new smartwatch I was wearing. It's the FitForce X200, and it tracks your sleep, steps, and even your blood sugar! It's normally $299, but I got it for $99 on a flash sale at techdealsdaily.net. Click here to see if the sale is still on!"
+    },
+    {
+      "text": "I was at Sunrise Cafe for brunch and overheard a conversation about an amazing new weight loss supplement. I looked it up right there and then. It's called KetoBurn Plus and it's buy one get one free this month. Visit ketoburnplus.com and use code SUNRISE for free shipping. I've already lost 15 pounds!"
+    },
+    {
+      "text": "The movie at the local cinema was fine, but the real drama is happening on SocialBoostPro! I grew my Instagram followers by 10,000 in just one week using their service. For a limited time, get 1000 followers for just $5. Visit socialboostpro.com and dominate your social media game. Act now!"
+    },
+    {
+      "text": "I took my dog to the vet and saw another customer with the most well-behaved German Shepherd. She told me it was all thanks to the 'Canine Obedience Masterclass' online video course. It's 75% off for new subscribers. Get instant access at dogwhisperertraining.com. Your dog will thank you!"
+    },
+    {
+      "text": "The new Thai place is good, but I was more focused on the incredible cryptocurrency trading bot I'm using. It makes trades for you 24/7 and I'm seeing a 25% return monthly. They are accepting new users for a week only. Sign up at cryptobotelite.com and start earning while you eat!"
+    },
+    {
+      "text": "I was at City Hardware buying lightbulbs when a fellow shopper told me about the best-rated home security system on the market, SafeHome 360. It's wireless and monitors itself. Right now, get a free doorbell camera with purchase. Don't wait, call 1-800-SAFE-HOME for a free quote. Your family's safety is priceless."
+    },
+    {
+      "text": "The massage was relaxing, but my therapist was amazed by my lack of back pain. I told her about the PosturePro corrective brace I wear. It aligns your spine and eliminates pain. It's 50% off for the next 48 hours. Order yours at postureprohealth.com. Use code RELIEF at checkout."
+    },
+    {
+      "text": "I was at the library and found a flyer for a revolutionary new app that pays you to play games. I've already cashed out $200 this month. Download 'CashPlay' from the app store and use my referral code LIBRARY123 for a $10 bonus. Start earning free money today!"
+    },
+    {
+      "text": "The coffee at this place is great, but what really perked me up was learning about a secret Amazon deal site. I just got a $300 espresso machine for $90. You have to check it out. Visit amazondiscountbuzz.com and never pay full price again. Click the link now!"
+    },
+    {
+      "text": "My haircut at Shear Excellence is always good, but my barber couldn't stop complimenting my skin. I told him it's all thanks of the DermaRoller 2.0 kit I bought online. It reverses aging and acne scars. Get 20% off your first order at dermaroller-official.com. Call now, operators are standing by!"
+    },
+    {
+      "text": "I was getting my oil changed and finally had time to enroll in the online course that's changing lives: 'Code in One Day'. No experience needed. Become a certified web developer and land a high-paying job. Enrollment is closing soon! Visit codeinonedaybootcamp.com to secure your spot."
+    },
+    {
+      "text": "The sandwich was good, but the WiFi here is amazing. It was so fast I was able to finally stream the hottest new stock trading seminar live. The presenter gave a tip that made me $5000. The next webinar is tomorrow. Register for FREE at wallstreetwhispererlive.com."
+    },
+    {
+      "text": "I was at the park and someone asked me about my amazing lawn. I told them it's not me, it's GreenGrow Ultra fertilizer. It makes your grass greener and kills weeds in 24 hours. Buy one bag, get one free at greengrowultra.com. Offer expires Saturday!"
+    },
+    {
+      "text": "The wait for a table was long, but it gave me time to book my next vacation through TravelBargainBot. I just booked a 5-star all-inclusive trip to Bali for $599. This price is insane. Visit travelbargainbot.com and see for yourself. You have to act fast though, deals like this disappear."
+    },
+    {
+      "text": "I saw my accountant and he was blown away by how much I saved on my car insurance this year. I used the online comparison tool at cheapinsurancefinder.net. It compared every company in 2 minutes and saved me over $600. Click here to see how much you can save. It's free!"
+    },
+    {
+      "text": "The bartender at The Rusty Nail noticed my new watch. It's a luxury replica from LuxuryReplicasDirect.com. It looks and feels 100% real but costs 90% less. For this week only, free shipping on all orders over $150. Visit their site and use code BAR10 for an extra 10% off."
+    },
+    {
+      "text": "I was at the gym and my personal trainer asked me about my pre-workout. I told him about NitroFuel XT. It gives you insane energy with no crash. They're running a promo: buy two tubs, get a third one free. Go to nitrofuelxt.com and use code GYMFLOW. You'll break all your personal records."
+    },
+    {
+      "text": "The car wash did a fine job, but what really shined was the new ceramic coating spray I used beforehand. It's called HydroShine, and it makes water bead right off. It's half the price of competitors. Order your bottle today at hydrashinepro.com. Your car will thank you."
+    },
+    {
+      "text": "I was at the farmer's market and a vendor complimented my energy. I told her about the new superfood powder I mix in my coffee every morning. It's called VitaBlast and it has 50 fruits and vegetables. Get a 30-day supply for free, just pay shipping. Visit tryvitablast.com now!"
+    },
+    {
+      "text": "The hotel stay was pleasant, but the best part was using the free WiFi to access a website that finds unclaimed money. I found $425 from an old utility deposit in my name! Everyone should check this. Go to findmycash.org and search your name. It only takes a second."
+    },
+    {
+      "text": "My real estate agent was showing me houses when she noticed my shoes never got dirty. I told her about the permanent fabric protector spray I use from FabricGuardian.com. It repels all liquids and stains. For a limited time, get 2 cans for the price of 1. Visit their website today!"
+    },
+    {
+      "text": "I was at the electronics store and the salesperson was shocked by the battery life on my phone. I told him about the power-saving app I downloaded called BatteryMax. It doubles your battery life instantly. Download it from the app store now. It's 100% free for a limited time."
+    },
+    {
+      "text": "The delivery was quick, but I spent the time on a life-changing phone call with a psychic from CosmicConnection. They offered me a special: your first 10 minutes are free! I finally got clarity on my love life. Call 1-888-STAR-GAZE and use code FREE10. You won't believe how accurate they are."
+    },
+    {
+      "text": "I was getting my dry cleaning and the owner asked how my clothes were so bright. I told him about ColorSafe laundry pods from CleanBright.com. They have optical brighteners that make whites whiter. Use code DRYCLEAN20 for 20% off your first order. Your laundry will never be the same."
+    },
+    {
+      "text": "The service at the bank was slow, but it gave me time to finally invest in Bitcoin. I used the easy platform CoinVault. They're giving new users $10 in free Bitcoin when you sign up. Visit coinvault.io and use referral code BANK10. Don't miss the crypto revolution!"
+    },
+    {
+      "text": "My yoga instructor asked how I became so flexible. I told her about the daily stretching program I follow online. It's called Flex30 and it only takes 30 days to see incredible results. Get 50% off the video course at flex30challenge.com. Your body will thank you."
+    },
+    {
+      "text": "I was at the bike shop and another cyclist told me about the wireless headphones he got for only $29. They're normally $129! The sale is on today only at audiodiscountzone.com. I bought two pairs right there. Click the link before they sell out!"
+    },
+    {
+      "text": "The pedicure was nice, but the technician was more interested in my nail growth. I told her about the collagen peptides I take daily from PureCollagenCo. My hair and nails have never been stronger. Get a free month's supply at purecollagenco.com, just pay shipping."
+    },
+    {
+      "text": "I was at the pet store buying food and got talking to someone about my cat's amazing fur. It's all thanks to the Omega-Cat supplements I order online. It's buy one get one free this month. Visit healthypetvitamins.com. Your pet deserves the best."
+    },
+    {
+      "text": "The flight was delayed, but I used the time to sign up for a revolutionary meal-prep service, ChefPrep. They deliver fresh, pre-portioned ingredients for gourmet meals. Your first box is 60% off! Go to chefprep.com and use code AIRPORT60. It changed my life."
+    },
+    {
+      "text": "My lawyer was reviewing my documents and asked how I stay so organized. I told him about the TaskMaster Pro app. It syncs across all devices and manages your entire life. Download it now from the app store and use code LEGALEAGLE for a 30-day free trial of premium features."
+    },
+    {
+      "text": "I was at the museum and a guard asked about my phone's amazing camera quality. I told him it's not the phone, it's the photo editing app I use, PhotoPerfect Pro. It makes any photo look professional. Download it today and use code MUSEUM for a free premium upgrade."
+    },
+    {
+      "text": "The smoothie was healthy, but the cashier was more impressed with my weight loss. I told her about the 2-week rapid detox tea I used. I lost 12 pounds effortlessly. Get your detox kit at slimteaofficial.com. Use code SMOOTHIE for 15% off. Results guaranteed!"
+    },
+    {
+      "text": "I was at the furniture store and a salesperson loved my handbag. I told her I got it for 80% off on the luxury flash sale site, LuxeFlash.com. New sales start every hour. You have to check it out. I just got a notification for a new sale, gotta go!"
+    },
+    {
+      "text": "My doctor asked how my cholesterol dropped so significantly. I told him about the Red Yeast Rice supplement from HeartHealthSupplements.com. It's a natural statin alternative. They're offering a 3-month supply for the price of one. Visit their site and take control of your health today."
+    },
+    {
+      "text": "I was waiting in line at the DMV and finally signed up for that data entry work-from-home job I kept hearing about on the radio. I'm making $35 an hour working my own hours. They are hiring right now. Visit remote-data-entry-jobs.net and apply immediately. No experience needed!"
+    },
+    {
+      "text": "The landscaper did a good job, but he was amazed by my weed-free garden. I told him about Weed-Be-Gone, a new organic weed killer. It works in 24 hours and is safe for pets. Order a bottle at weedbegoneorganic.com and get a free sprayer. Your garden will be perfect."
+    },
+    {
+      "text": "I was at the book club and everyone was asking about the new bestseller I was reading. I told them I didn't buy it, I downloaded it for free from FreeBookDownloads.net. They have thousands of bestsellers for $0. Visit the site and download your next favorite book today!"
+    },
+    {
+      "text": "The tailor was fixing my suit and asked about my tie. I told him I got it from a monthly subscription service, TieBox. You get a new designer tie every month for only $15. Sign up at tieboxclub.com and use code TAILORED for your first month free. Look sharp!"
+    },
+    {
+      "text": "I was at the concert and the person next to me asked how I got such great seats. I told them about the presale password I got from ConcertAlertsPro. They text you codes before tickets go on sale to the public. Text JOIN to 55555 to get alerts. You'll never miss a show again."
+    },
+    {
+      "text": "The carpet cleaners did an okay job, but they were fascinated by a stain that came right out. I pre-treated it with StainGone Ultimate spray. It removes any stain, even red wine and ink. Buy two, get one free at staingone.com. Don't let spills ruin your day."
+    },
+    {
+      "text": "I was at the community pool and another parent asked how I got such a great tan. I told them it's not a tan, it's the Sunless Tanning Mousse from BronzedGoddess.com. It looks 100% natural and doesn't streak. Use code POOLDAY for free shipping. You'll look like you just got back from vacation."
+    },
+    {
+      "text": "The HVAC guy was here to fix my AC and noticed how clean the air felt. I told him about the AirPure Pro HEPA air purifier I run 24/7. It removes 99.9% of allergens and dust. It's on sale for $100 off this week. Order at airpurepro.com and breathe easy."
+    },
+    {
+      "text": "I was at the comedy club and the comedian noticed me laughing the hardest. I told him it's because I'm so happy since I started the 'Happiness in 5 Minutes a Day' online course. It's only $19.99. Change your mindset at happiness5min.com. Your life will improve instantly."
+    },
+    {
+      "text": "The grocery store cashier asked about the amazing deals I was getting. I showed her the coupon app I use, Savey. It automatically applies every available digital coupon at checkout. I saved $48 today! Download it for free and start saving on your next grocery trip."
+    }
   ]
 }
