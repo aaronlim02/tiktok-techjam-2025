@@ -1,5 +1,5 @@
 # Project Overview
-This project tackles the challenge of automatically moderating Google Maps reviews by detecting policy-violating content. wo LLMs(Large Language Models), Gemma 3 and Qwen 3, are implemented and evaluated to classify reviews into four categories: genuine feedback, advertisements, irrelevant content, and rant without visit, while running locally on a consumer-grade desktop.
+This project tackles the challenge of automatically moderating Google Maps reviews by detecting policy-violating content entirely on a local consumer-grade machine, eliminating the need for cloud APIs. Two LLMs(Large Language Models), Gemma 3 and Qwen 3, are implemented and evaluated to classify reviews into four categories: genuine feedback, advertisements, irrelevant content, and rant without visit, while running locally on a consumer-grade desktop.
 
 Our results show that Gemma 3 achieved better overall performance, while also being significantly faster than Qwen 3.
 
