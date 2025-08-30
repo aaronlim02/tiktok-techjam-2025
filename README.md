@@ -6,7 +6,7 @@ Our results show that Gemma 3 achieved better overall performance, while also be
 # Setup Instructions
 
 ### Prerequisites
-- **Hardware:** A machine with sufficient RAM (≥16GB recommended). A GPU with ≥8GB VRAM is ideal for accelerated inference.
+- **Hardware:** A machine with sufficient RAM (≥16GB minimum). A GPU with ≥8GB VRAM is ideal for accelerated inference.
 - **Software:** Python 3.9+, Jupyter, and Ollama installed on your system.
 
 Before running the Jupyter notebook, please ensure you have the required inference services installed and running.
