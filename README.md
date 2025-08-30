@@ -32,3 +32,5 @@ After installing Ollama, you need to download and run the specific models used i
 Open a terminal (Command Prompt, PowerShell, or shell) and run the following commands (e.g. for qwen3:8b):
 
 `ollama run qwen3:8b`
+
+If you haven't installed the models yet, Ollama will install it for you before running it.
